@@ -4,9 +4,9 @@
 ___
 <div align="center" >
 <!-- Outils github -->
-<p> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=scosy&count_private=true&show_icons=true&bg_color=DEG,261b23,FFF&text_color=261b23&title_color=D30001&icon_color=D30001" alt="scosy" /></a> </p>
+<p> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=scosy&count_private=true&show_icons=true&bg_color=DEG,261b23e0,FFF&text_color=261b23&title_color=D30001&icon_color=D30001" alt="scosy" /></a> </p>
 
-<p> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scosy&layout=compact&bg_color=DEG,261b23,FFF&text_color=261b23&title_color=D30001&icon_color=D30001" alt="scosy" /></a> </p>
+<p> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scosy&layout=compact&bg_color=DEG,261b23,FFF&text_color=261b23e0&title_color=D30001&icon_color=D30001" alt="scosy" /></a> </p>
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scosy&title=Commits,PullRequest,Repositories&theme=dark_lover&column=3" alt="scosy" /></a> </p>
 
