@@ -2,27 +2,27 @@
 <h3 align="center">A back-end Ruby on Rails developer</h3>
 
 ___
-
+<div align="center" >
 <!-- Outils github -->
-<p align="left"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=scosy&count_private=true&show_icons=true&bg_color=DEG,261b23,FFF&text_color=261b23&title_color=D30001&icon_color=D30001" alt="scosy" /></a> </p>
+<p> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=scosy&count_private=true&show_icons=true&bg_color=DEG,261b23,FFF&text_color=261b23&title_color=D30001&icon_color=D30001" alt="scosy" /></a> </p>
 
-<p align="left"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scosy&layout=compact&bg_color=DEG,261b23,FFF&text_color=261b23&title_color=D30001&icon_color=D30001" alt="scosy" /></a> </p>
+<p> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scosy&layout=compact&bg_color=DEG,261b23,FFF&text_color=261b23&title_color=D30001&icon_color=D30001" alt="scosy" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scosy&title=Commits,PullRequest,Repositories&theme=dark_lover" alt="scosy" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scosy&title=Commits,PullRequest,Repositories&theme=dark_lover&column=3" alt="scosy" /></a> </p>
 
 
-- 📫 How to reach me **amine.bentaleb064@gmail.com**
+ 📫 How to reach me **amine.bentaleb064@gmail.com**
 
 <!-- Social -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
 <a href="https://linkedin.com/in/amine-ben-taleb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amine-ben-taleb" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18952060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18952060" height="30" width="40" /></a>
 </p>
 
 <!-- Langages -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3>Languages and Tools:</h3>
+<p>
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
