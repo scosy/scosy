@@ -11,7 +11,7 @@ ___
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scosy&title=Commits,PullRequest,Repositories&theme=dark_lover&column=3" alt="scosy" /></a> </p>
 
 
- 📫 How to reach me **amine.bentaleb064@gmail.com**
+ 📫 How to reach me: **amine.bentaleb064@gmail.com**
 
 <!-- Social -->
 <h3>Connect with me:</h3>
